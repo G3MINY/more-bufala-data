@@ -196,5 +196,25 @@
     "order_note": "Mozzarella di Bufala 500g, Stracciatella 1000g",
     "message": "",
     "timestamp": "2025-07-11T18:43:22.000Z"
+  },
+  {
+    "name": "ALESSANDRO",
+    "surname": "CIMMINO",
+    "email": "g3miny@hotmail.com",
+    "phone": "0798216299",
+    "message": "",
+    "total_price": "0.50",
+    "timestamp": "2025-07-16T17:03:30.274Z",
+    "mozzarella": "0",
+    "provola": "0",
+    "stracciatella": "0",
+    "burrata": "0",
+    "burrata_tartufo": "0",
+    "burrata_affumicata": "0",
+    "ricotta_v": "0",
+    "ricotta_b": "250",
+    "agerola": "0",
+    "agerola_affumicato": "0",
+    "order_note": "Ricotta di Bufala 250g"
   }
 ]
