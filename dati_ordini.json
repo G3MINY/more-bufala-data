@@ -198,23 +198,23 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "SAVARESE",
-    "surname": "Mario",
+    "name": "HELM",
+    "surname": "",
     "email": "",
-    "phone": "+41 796917617  ",
+    "phone": "",
     "message": "",
-    "total_price": "84.00",
-    "timestamp": "2025-07-18T14:51:38.301Z",
-    "mozzarella": "0",
-    "provola": "6000",
+    "total_price": "36.50",
+    "timestamp": "2025-07-18T16:16:51.255Z",
+    "mozzarella": "1000",
+    "provola": "0",
     "stracciatella": "0",
     "burrata": "0",
     "burrata_tartufo": "0",
     "burrata_affumicata": "0",
     "ricotta_v": "0",
-    "ricotta_b": "0",
+    "ricotta_b": "500",
     "agerola": "0",
     "agerola_affumicato": "0",
-    "order_note": "Fior di latte Agerola per pizza 6000g"
+    "order_note": "Mozzarella di Bufala 1000g, Ricotta di Bufala 500g"
   }
 ]
