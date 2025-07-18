@@ -198,23 +198,12 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "BOZZELLI",
-    "surname": "ROCCO",
-    "email": "rocco.bozzelli@msccruises.com",
-    "phone": "+41 79.698.96.84",
+    "name": "Chiara Bossi",
+    "email": "chiara.bossi@libero.it",
+    "phone": "",
+    "total_price": "14.25",
+    "order_note": "Burrata 500g, Ricotta di Bufala 250g",
     "message": "",
-    "total_price": "40.00",
-    "timestamp": "2025-07-18T08:45:59.930Z",
-    "mozzarella": "500",
-    "provola": "500",
-    "stracciatella": "0",
-    "burrata": "0",
-    "burrata_tartufo": "0",
-    "burrata_affumicata": "0",
-    "ricotta_v": "0",
-    "ricotta_b": "0",
-    "agerola": "0",
-    "agerola_affumicato": "500",
-    "order_note": "Mozzarella di Bufala 500g, Provola di Bufala 500g, Fior di latte Agerola affumicato 500g"
+    "timestamp": "2025-07-18T13:47:06.087Z"
   }
 ]
