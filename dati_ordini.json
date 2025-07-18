@@ -198,23 +198,23 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "WALDEGG",
-    "surname": "Daniel",
-    "email": "",
-    "phone": "",
+    "name": "BOZZELLI",
+    "surname": "ROCCO",
+    "email": "rocco.bozzelli@msccruises.com",
+    "phone": "+41 79.698.96.84",
     "message": "",
-    "total_price": "52.50",
-    "timestamp": "2025-07-17T14:56:29.310Z",
+    "total_price": "40.00",
+    "timestamp": "2025-07-18T08:45:59.930Z",
     "mozzarella": "500",
-    "provola": "0",
-    "stracciatella": "500",
+    "provola": "500",
+    "stracciatella": "0",
     "burrata": "0",
     "burrata_tartufo": "0",
     "burrata_affumicata": "0",
-    "ricotta_v": "500",
+    "ricotta_v": "0",
     "ricotta_b": "0",
-    "agerola": "1000",
-    "agerola_affumicato": "0",
-    "order_note": "Mozzarella di Bufala 500g, Stracciatella 500g, Ricotta Vaccina 500g, Fior di latte Agerola 1000g"
+    "agerola": "0",
+    "agerola_affumicato": "500",
+    "order_note": "Mozzarella di Bufala 500g, Provola di Bufala 500g, Fior di latte Agerola affumicato 500g"
   }
 ]
