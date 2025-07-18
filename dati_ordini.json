@@ -198,21 +198,12 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "Chiara Bossi",
-    "email": "chiara.bossi@libero.it",
+    "name": "Anne-Cecile Helm",
+    "email": "annececile.helm@msc.com",
     "phone": "",
-    "total_price": "14.25",
-    "order_note": "Burrata 500g, Ricotta di Bufala 250g",
+    "total_price": "36.50",
+    "order_note": "Mozzarella di Bufala 1000g, Ricotta di Bufala 500g",
     "message": "",
-    "timestamp": "2025-07-18T13:47:06.087Z"
-  },
-  {
-    "name": "Marta Cafiero",
-    "email": "martacafiero8@gmail.com",
-    "phone": "",
-    "total_price": "13.25",
-    "order_note": "Ricotta Vaccina 250g, Fior di latte Agerola 500g",
-    "message": "",
-    "timestamp": "2025-07-18T13:48:18.832Z"
+    "timestamp": "2025-07-18T14:14:39.667Z"
   }
 ]
