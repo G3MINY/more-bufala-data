@@ -198,12 +198,23 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "Anne-Cecile Helm",
-    "email": "annececile.helm@msc.com",
-    "phone": "",
-    "total_price": "36.50",
-    "order_note": "Mozzarella di Bufala 1000g, Ricotta di Bufala 500g",
+    "name": "SAVARESE",
+    "surname": "Mario",
+    "email": "",
+    "phone": "+41 796917617  ",
     "message": "",
-    "timestamp": "2025-07-18T14:14:39.667Z"
+    "total_price": "84.00",
+    "timestamp": "2025-07-18T14:51:38.301Z",
+    "mozzarella": "0",
+    "provola": "6000",
+    "stracciatella": "0",
+    "burrata": "0",
+    "burrata_tartufo": "0",
+    "burrata_affumicata": "0",
+    "ricotta_v": "0",
+    "ricotta_b": "0",
+    "agerola": "0",
+    "agerola_affumicato": "0",
+    "order_note": "Fior di latte Agerola per pizza 6000g"
   }
 ]
