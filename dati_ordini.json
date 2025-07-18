@@ -236,5 +236,25 @@
     "agerola": "500",
     "agerola_affumicato": "0",
     "order_note": "Ricotta Vaccina 250g, Fior di latte Agerola 500g"
+  },
+  {
+    "name": "BOSSI",
+    "surname": "",
+    "email": "",
+    "phone": "",
+    "message": "",
+    "total_price": "14.25",
+    "timestamp": "2025-07-18T16:17:57.588Z",
+    "mozzarella": "0",
+    "provola": "0",
+    "stracciatella": "0",
+    "burrata": "500",
+    "burrata_tartufo": "0",
+    "burrata_affumicata": "0",
+    "ricotta_v": "0",
+    "ricotta_b": "250",
+    "agerola": "0",
+    "agerola_affumicato": "0",
+    "order_note": "Burrata 500g, Ricotta di Bufala 250g"
   }
 ]
