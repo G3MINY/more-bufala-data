@@ -241,5 +241,14 @@
     "total_price": "16.50",
     "order_note": "Ricotta Vaccina 500g, Fior di latte Agerola affumicato 500g",
     "timestamp": "2025-07-25T16:13:40.909Z"
+  },
+  {
+    "name": "BOSSI ",
+    "email": "",
+    "phone": "",
+    "message": "",
+    "total_price": "14.25",
+    "order_note": "Stracciatella 250g, Burrata 250g, Ricotta di Bufala 250g",
+    "timestamp": "2025-07-25T16:15:15.105Z"
   }
 ]
