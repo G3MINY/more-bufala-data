@@ -198,57 +198,12 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "BOSSI",
-    "email": "",
+    "name": "Mauro Montuori",
+    "email": "mauro.montuori@msc.com",
     "phone": "",
-    "total_price": "14.25",
-    "order_note": "Burrata 500g, Ricotta di Bufala 250g",
+    "total_price": "16.25",
+    "order_note": "Mozzarella di Bufala 250g, Burrata 250g, Ricotta di Bufala 250g",
     "message": "",
-    "timestamp": "2025-07-18T18:43:22.000Z"
-  },
-{
-    "name": "CAFIERO",
-    "email": "",
-    "phone": "",
-    "total_price": "13.25",
-    "order_note": "Ricotta Vaccina 250g, Fior di latte Agerola 500g",
-    "message": "",
-    "timestamp": "2025-07-18T18:43:22.000Z"
-  },
-{
-    "name": "HELM",
-    "email": "",
-    "phone": "",
-    "total_price": "36.50",
-    "order_note": "Mozzarella di Bufala 1000g, Ricotta di Bufala 500g",
-    "message": "",
-    "timestamp": "2025-07-18T18:43:22.000Z"
-  },
-{
-    "name": "WALDEGG",
-    "email": "",
-    "phone": "",
-    "total_price": "52.50",
-    "order_note": "Mozzarella di Bufala 500g, Stracciatella 500g, Ricotta Vaccina 500g, Fior di latte Agerola 1000g",
-    "message": "",
-    "timestamp": "2025-07-18T18:43:22.000Z"
-  },
-{
-    "name": "SAVARESE",
-    "email": "",
-    "phone": "",
-    "total_price": "84.00",
-    "order_note": "Fior di latte Agerola per pizza 6000g",
-    "message": "",
-    "timestamp": "2025-07-18T18:43:22.000Z"
-  },
-{
-    "name": "BOZZELLI",
-    "email": "",
-    "phone": "",
-    "total_price": "40.00",
-    "order_note": "Provola di bufala 500g, Mozzarella di bufala 500g, Fior di Latte Agerola affumicata 500",
-    "message": "",
-    "timestamp": "2025-07-18T18:43:22.000Z"
+    "timestamp": "2025-07-25T09:36:05.086Z"
   }
 ]
