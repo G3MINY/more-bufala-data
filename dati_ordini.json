@@ -198,21 +198,12 @@
     "timestamp": "2025-07-11T18:43:22.000Z"
   },
   {
-    "name": "Patrick Lehmann",
-    "email": "patrick.lehmann.gde@gmail.com",
+    "name": "Francesco Lanuzza",
+    "email": "francescolanuzza@yahoo.it",
     "phone": "",
-    "total_price": "15.00",
-    "order_note": "Mozzarella di Bufala 500g",
+    "total_price": "31.50",
+    "order_note": "Mozzarella di Bufala 500g, Ricotta Vaccina 500g, Fior di latte Agerola 500g",
     "message": "",
-    "timestamp": "2025-07-31T12:03:03.069Z"
-  },
-  {
-    "name": "Daniel Waldegg",
-    "email": "daniel.waldegg.pp@gmail.com",
-    "phone": "",
-    "total_price": "53.50",
-    "order_note": "Mozzarella di Bufala 500g, Provola di Bufala 250g, Stracciatella 500g, Fior di latte Agerola 500g, Fior di latte Agerola affumicato 500g",
-    "message": "",
-    "timestamp": "2025-07-31T12:04:15.832Z"
+    "timestamp": "2025-07-31T12:46:11.441Z"
   }
 ]
