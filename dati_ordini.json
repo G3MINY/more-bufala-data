@@ -205,5 +205,14 @@
     "order_note": "Mozzarella di Bufala 500g",
     "message": "",
     "timestamp": "2025-07-31T12:03:03.069Z"
+  },
+  {
+    "name": "Daniel Waldegg",
+    "email": "daniel.waldegg.pp@gmail.com",
+    "phone": "",
+    "total_price": "53.50",
+    "order_note": "Mozzarella di Bufala 500g, Provola di Bufala 250g, Stracciatella 500g, Fior di latte Agerola 500g, Fior di latte Agerola affumicato 500g",
+    "message": "",
+    "timestamp": "2025-07-31T12:04:15.832Z"
   }
 ]
