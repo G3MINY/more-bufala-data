@@ -259,5 +259,14 @@
     "total_price": "53.50",
     "order_note": "Mozzarella di Bufala 500g, Provola di Bufala 250g, Stracciatella 500g, Fior di latte Agerola 500g, Fior di latte Agerola affumicato 500g",
     "timestamp": "2025-08-01T09:35:16.253Z"
+  },
+  {
+    "name": "LANUZZA ",
+    "email": "",
+    "phone": "",
+    "message": "",
+    "total_price": "31.50",
+    "order_note": "Mozzarella di Bufala 500g, Ricotta Vaccina 500g, Fior di latte Agerola 500g",
+    "timestamp": "2025-08-01T09:35:55.721Z"
   }
 ]
